@@ -17,7 +17,7 @@ if (isset($_SESSION['isLogin'])) {
 <body>
 	<div class="container">
 		<div class="form__top">
-			<h2>Formulario <span>Inicio</span></h2>
+			<h2><span>Inicio</span></h2>
 		</div>		
 		<form class="form__reg" method="POST"  action="../controladores/login.php" >
 			<span class="error" id="errorEmail"></span>

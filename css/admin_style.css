@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background: #FBF7F4;
+    background: rgb(248, 172, 172);
 }
 #contenedor{
     display: flex;
@@ -18,24 +18,20 @@ body{
 }
 
 #contenedor section table {
-    border: 2px solid #A40808;
-    background-color: #FBF7F4;
+   
     width: 100%;
     text-align: center;
     border-collapse: collapse;
 }
-#contenedor section table thead{
-    background-color: #A40808;
-    
-}
+
 #contenedor section table thead tr td{
     padding: 5px 3px;
-    color: #FBF7F4;
+    color: rgb(3, 3, 3);
     font-weight: 700;
     text-transform: uppercase;
 }
 #contenedor section table td{
-    border: 1px solid #AAAAAA;
+    border: 1px solid rgb(5, 5, 5);
     padding: 3px 2px;
 }
 #contenedor section table thead th:first-child {
@@ -49,7 +45,7 @@ body{
     height: 50px;
 }
 #contenedor section table tbody tr .db_null{
-    color: #A40808;
+ 
     font-weight: 700;
     padding: 20px 0;
 }
@@ -65,20 +61,15 @@ body{
 #contenedor section table tbody tr td a:hover{
     color: #A40808;
 }
-#contenedor section table tr:nth-child(even) {
-    background: #F5C8BF;
-}
 
-#contenedor section table tfoot {
-    color: #FFFFFF;
-    background: #A40808;
-}
+
+
 #contenedor section table tfoot .links {
     text-align: right;
 }
 #contenedor section table tfoot .links a{
     display: inline-block;
-    background: #FFFFFF;
+    background:rgb(248, 172, 172);
     color: #A40808;
     padding: 2px 8px;
     border-radius: 5px;

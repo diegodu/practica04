@@ -41,7 +41,7 @@ if (isset($_SESSION['isLogin'])) {
             <div class="btn__form">
             	<input class="btn__submit" type="submit" value="REGISTRAR">
 			</div>
-			<p><a href="login.php">Ingresar</a></p>
+			<p><a href="login.php">Iniciar sesion</a></p>
 		</form>
 	</div>
 </body>

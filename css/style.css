@@ -11,14 +11,14 @@ body{
 
 
 body header{
-    background: #FBF7F4;
+    background: rgb(248, 172, 172);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 5px;
     height: 4em;
     width: 100%;
-    border-bottom: 1px solid #e53935;
+  
 }
 header .tittle{
     text-transform: uppercase;
@@ -69,7 +69,7 @@ header .user{
     align-content: center;
 }
 header .user p span{
-    color: #e53935;
+    color: #f80202;
 }
 header .user a{
     color: #000;
@@ -296,26 +296,3 @@ footer.extend{
 footer.red{
     background-color: #e53935;
 }
-/* body .mensaje{
-    background-color: #FFF;
-    width: 50%;
-}
-body .mensaje form{
-    width: 100%;
-    height: 100%;
-    background-color: #FFF;
-    
-}body .mensaje form{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-body .mensaje textarea{
-    resize: none;
-    margin-top: 15px;
-    padding: 10px;
-    border: 1px solid #e35d5b;
-} 
-body .mensaje input[type=email]{
-    width: 50%;
-} */
