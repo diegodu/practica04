@@ -2,7 +2,7 @@
 
 Entender y organizar de una mejor manera los sitios de web en Internet
 Diseñar adecuadamente elementos gráficos en sitios web en Internet.
-Crear sitios web aplicando estándares actuales. | | ACTIVIDADES DESARROLLADAS | | 1. Se creo un repositorio en GitHub con el nombre "Practica01 – Mi Blog". Usuario: dguzmanc4 URL: https://github.com/dguzmanc4/Practica04-Mi-Correo-Electr-nico | | 2. Se creo el diagrama Entidad-Relación para la resolución de la práctica. 
+Crear sitios web aplicando estándares actuales. | | ACTIVIDADES DESARROLLADAS | | 1. Se creo un repositorio en GitHub con el nombre "Practica01 – Mi Blog". Usuario: diegodu URL: https://github.com/dguzmanc4/Practica04-Mi-Correo-Electr-nico | | 2. Se creo el diagrama Entidad-Relación para la resolución de la práctica. 
 | | 3. Sentencias SQL de la estructura de la base de datos. Nombre de la base de datos: practica4
 
 ![image](https://user-images.githubusercontent.com/52541505/69538170-b44d0180-0f4f-11ea-8872-9ed79d8e9914.png)
