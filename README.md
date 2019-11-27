@@ -101,25 +101,22 @@ En el rol admin, no se pueden crear reuniones ya que no cuenta con ningún apart
 
 3.Eliminar las reuniones de los usuarios con rol "user". 
 
-
-![image](https://user-images.githubusercontent.com/52541505/69538602-b06daf00-0f50-11ea-8212-b8cc533cc140.png)
 ![image](https://user-images.githubusercontent.com/52541505/69538606-b2d00900-0f50-11ea-9691-50bc37df9203.png)
 
 
 
 4.Eliminar, modificar y cambiar contraseña de los usuarios con rol "user" 
 
-![image](https://user-images.githubusercontent.com/52541505/69538640-c4191580-0f50-11ea-8e43-6f2f48e56ee7.png)
+
 
 Al realizar una eliminación esta se la realiza de manera lógica, por lo que la cuenta se puede volver a habilitar. 
 
-![image](https://user-images.githubusercontent.com/52541505/69538645-c7140600-0f50-11ea-91b5-4f335ec39d50.png)
 ![image](https://user-images.githubusercontent.com/52541505/69538690-deeb8a00-0f50-11ea-8931-ed453e22bd8d.png)
 
 Cambiar contraseña 
 
 
-![image](https://user-images.githubusercontent.com/52541505/69538705-e7dc5b80-0f50-11ea-8019-d4116b3b7222.png)
+
 ![image](https://user-images.githubusercontent.com/52541505/69538715-ead74c00-0f50-11ea-893c-a527129eb0bf.png)
 ![image](https://user-images.githubusercontent.com/52541505/69538722-eca10f80-0f50-11ea-839f-b0a37ac663ed.png)
 
@@ -127,7 +124,6 @@ Cambiar contraseña
 
 Modificar Datos 
 
-![image](https://user-images.githubusercontent.com/52541505/69538750-f7f43b00-0f50-11ea-9b8b-19346bb8b864.png)
 ![image](https://user-images.githubusercontent.com/52541505/69538757-fa569500-0f50-11ea-8dce-623ebcd2bd61.png)
 ![image](https://user-images.githubusercontent.com/52541505/69538765-fd518580-0f50-11ea-8e48-6832d1d45491.png)
 
@@ -137,4 +133,4 @@ Modificar Datos
 | | N. | | | | RESULTADO(S) OBTENIDO(S):
 
 Tener el conocimiento suficiente para que el estudiante pueda entender y organizar de una mejor manera los sitios de web y de negocios en Internet. | | CONCLUSIONES :Con los conocimientos adquiridos podemos organizar sitios web basados en el lenguaje de programación PHP para persistir información en una base de datos relacional. | | RECOMENDACIONES : N/A |
-Nombre de estudiante** :** Daniel Guzmán
+Nombre de estudiante** :Diego Duchimaza
