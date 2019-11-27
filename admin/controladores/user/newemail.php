@@ -22,7 +22,7 @@ if (!isset($_SESSION['isLogin'])) {
 
 <body>
     <header>
-        <h1 class="tittle">Gestion de usuarios</h1>
+       
         <div class="menu">
             <nav>
                 <ul>

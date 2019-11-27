@@ -17,7 +17,7 @@ if (isset($_SESSION['isLogin'])) {
 <body>
 	<div class="container">
 		<div class="form__top">
-			<h2>Formulario <span>Registro</span></h2>
+			<h2><span>Registro</span></h2>
 		</div>		
 		<form class="form__reg" method="POST" onsubmit="return validarCamposObligatorios()" action="../controladores/crear_usuario.php" >
 			<span class="error" id="errorCedula"></span>
